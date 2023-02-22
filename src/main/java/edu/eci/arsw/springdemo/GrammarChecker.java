@@ -13,7 +13,6 @@ public class GrammarChecker {
 
 	String x;
         
-      
 	public SpellChecker getSpellChecker() {
 		return sc;
 	}
@@ -29,10 +28,6 @@ public class GrammarChecker {
 		sb.append("Spell checking output:"+sc.checkSpell(text));
 		sb.append("Plagiarism checking output: Not available yet");
 		
-		
 		return sb.toString();
-		
 	}
-	
-	
 }
