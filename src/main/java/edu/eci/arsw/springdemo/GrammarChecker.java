@@ -7,9 +7,9 @@ import org.springframework.stereotype.Service;
 @Service
 public class GrammarChecker {
 
-	@Autowired
-	@Qualifier("englishSpellChecker")  
-	SpellChecker sc;
+        @Autowired
+        @Qualifier("SpanishSpellChecker")
+        SpellChecker sc;
 
 	String x;
         
