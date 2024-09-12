@@ -3,7 +3,7 @@
 ### Taller – Principio de Inversión de dependencias, Contenedores Livianos e Inyección de dependencias.
 #### AUTORES:
 - [Saray Alieth Mendivelso](https://github.com/saraygonm)
-- [Milton Andres Gutierrez](https://github.com/MiltonGutierrez)
+
 
 ### Parte I. Ejercicio básico.
 
